@@ -1,0 +1,23 @@
+{
+  "name": "lesson-1",
+  "version": "1.0.0",
+  "description": "our first node app",
+  "main": "webserver.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaymundRama/comp2068Lesson1.git"
+  },
+  "author": "raymund",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaymundRama/comp2068Lesson1/issues"
+  },
+  "homepage": "https://github.com/RaymundRama/comp2068Lesson1#readme",
+  "dependencies": {
+    "accounting": "^0.4.1",
+    "weather-js": "^2.0.0"
+  }
+}
